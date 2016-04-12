@@ -1,0 +1,31 @@
+{
+    "name": "brackets-selected-char-count",
+    "title": "Selected Char Counter",
+    "description": "Shows the number of selected chars",
+	"keywords":["selected char", "char count"],
+    "version": "1.0.0",
+    "license": "MIT",
+  	"homepage": "https://github.com/alemonteiro/brackets-selected-char-count.git",
+	"author": {
+		"name": "Alê Monteiro",
+		"email": "code@alemonteiro.com.br",
+		"url": "http://alemonteiro.com.br"
+	},
+  	"repository": {
+    	"type": "git",
+    	"url": "https://github.com/alemonteiro/brackets-selected-char-count.git"
+  	},
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "i18n": [
+        "en"
+    ],
+	"files": [
+		"nls/",
+		"License",
+		"Readme.md",
+		"main.js",
+		"selected-char-count.css"
+	]
+}
